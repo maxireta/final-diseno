@@ -1,0 +1,30 @@
+body {
+    margin: 0px !important;
+    padding: 0px !important; 
+    font-family: 'Poppins', serif !important;
+}
+
+nav {
+    background: #333333;
+    height: auto;
+}
+
+footer{
+    background: #333333;
+}
+
+.text-azul{
+    color: #0080DE !important;
+}
+
+.bg-azul{
+    background-color: #0080DE !important;
+}
+
+.bg-beige {
+    background-color: #F1EBE7;
+  }
+  
+.bg-gris{
+    background-color: #CDD4D5;
+}
